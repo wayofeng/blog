@@ -1,0 +1,7 @@
+{
+    "scssSrc": "app/scss",
+    "cssSrc": "app/css",
+    "server": "app",
+    "htmlSrc": "app",
+    "jsSrc": "app/js"
+}
